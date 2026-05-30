@@ -1,1 +1,1 @@
-flag format is byuctf{example_flag}
+byuctf{Richmond:Indiana}
