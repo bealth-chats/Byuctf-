@@ -1,1 +1,1 @@
-byuctf{Richmond:Indiana}
+byuctf{Richmond:Michigan}
